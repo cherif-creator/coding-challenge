@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8D7642F5-D95A-4281-8418-1B0D8F0CA5CE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Powerplant/Controllers/PayloadController.cs">
+    <Files>
+      <File FileName="Powerplant/Controllers/PayloadController.cs" Line="14" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Powerplant" expanded="True">
+            <Node name="Powerplant" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Powerplant PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
